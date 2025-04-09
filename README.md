@@ -17,9 +17,9 @@ Currently, I’m just out here learning, breaking, building, and sharing what I 
 
 ## 🤝 Let’s Collaborate
 
-If you’re into learning, building, breaking things (ethically), or just geeking out on stuff like this — feel free to connect or drop a message. Open ako for collabs, side projects, or even random kwentuhan about tech.
+If you’re into learning, building, breaking things (ethically), or just geeking out on stuff like this — feel free to connect or drop a message 😂💻  
 
----
 
-*Made with coffee, keyboard smashing, and late-night curiosity* ☕💻  
+
+Made with coffee, keyboard smashing, and late-night curiosity ☕
 [@Jhesterpogi](https://github.com/Jhesterpogi)
